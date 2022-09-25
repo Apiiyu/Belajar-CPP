@@ -25,6 +25,7 @@ int main() {
     cout << "Hello, C++ \n"; // You can use "\n" to create a new line
     cout << "Hello, without endl ";
     cout << "This line is printed without a new line" << endl;
-    cin.get();
+
+    cin.get(); // This is used to wait for the user to press enter to continue the program
     return 0;
 }
