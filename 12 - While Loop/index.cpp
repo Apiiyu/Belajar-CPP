@@ -12,8 +12,7 @@ int main()
   /*
    * @conclusion :
    * 1. While loop is a loop that will execute the code inside the loop while the condition is true
-   * 2. While loop will execute the code inside the loop at least once
-   * 3. While loop will execute the code inside the loop until the condition is false
+   * 2. While loop will execute the code inside the loop until the condition is false
    */
   int index = 0;
 
